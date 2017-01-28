@@ -7,4 +7,4 @@ The test data are available here:
 [https://d396qusza40orc.cloudfront.net/predmachlearn/pml-testing.cs](https://d396qusza40orc.cloudfront.net/predmachlearn/pml-testing.cs)
 The data for this project come from this source: [http://groupware.les.inf.puc-rio.br/har](http://groupware.les.inf.puc-rio.br/har). Weight Lifting Exercise Dataset
 
-Analysis [link](https://github.com/avkch/Practical_Machine_Learning_Course_Project/blob/master/Practical_Machine_Learning_Course_Project.md)
+Analysis [link](http://htmlpreview.github.io/?https://github.com/avkch/Practical_Machine_Learning_Course_Project/blob/master/Practical_Machine_Learning_Course_Project.html)
